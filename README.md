@@ -168,4 +168,4 @@ curl -X POST http://127.0.0.1:8000/api/groups \
 
 ## Time Spent
 
-Approximately 15 hours total including environment setup, development, and testing.
+Approximately 20 hours total including environment setup, development, and testing.
